@@ -50,7 +50,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: var(--bg-color);
+  background: var(--main-color);
   padding: 18px 10%;
   transition: 0.2s;
 }
